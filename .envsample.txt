@@ -1,0 +1,2 @@
+ELASTICSEARCH_URL="https://cluster.es.eu-west-2.aws.cloud.es.io:9243"
+ELASTICSEARCH_API_KEY = ""
